@@ -1,2 +1,2 @@
 # NeuralNetworks-and-Optimization
-This repository contains my code which uses both SGD(Stochastic Gradient Descent) and Adam optimizers to optimize the Rosenbrock, Beale, and Ackley functions using PyTorch and implements and trains a simple Feed Forward Neural Network. 
+This repository contains my code which uses both SGD(Stochastic Gradient Descent) and Adam optimizers to optimize the Rosenbrock, Beale, and Ackley functions using PyTorch. The code also implements and trains a simple Feed Forward Neural Network using the PyTorch library as well and achieves at least or more than 80% accuracy on the testing dataset. The code uses the the scikit-learn library to cluster documents using K-means Clustering.
